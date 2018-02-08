@@ -181,7 +181,7 @@
                           // But some mobile devices need to be blacklisted,
                           // because their CSS 3D support or hardware is not
                           // good enough to run impress.js properly, sorry...
-                          ( ua.search( /(iphone)|(ipod)|(android)/ ) === -1 );
+                          ( ua.search( /(ipod)|(android)/ ) === -1 );
 
     if ( !impressSupported ) {
 
