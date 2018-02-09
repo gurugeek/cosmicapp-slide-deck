@@ -164,7 +164,7 @@
                   "title": "Image",
                   "type": "file",
                   "children": null
-               }
+              }
            ],
            "type_slug": "steps",
            "created": "2018-02-05T00:10:03.966Z",
@@ -790,6 +790,13 @@
            "title": "Step 10",
            "content": "<p>want to know more?</p><p>stay tuned :-)&nbsp;</p>",
            "metafields": [
+              {
+                  "value": "https://coin.flowers/400X400.png",
+                  "key": "image",
+                  "title": "Image",
+                  "type": "file",
+                  "children": null
+              },
               {
                  "value": "",
                  "key": "class",
