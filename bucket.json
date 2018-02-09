@@ -1,1177 +1,1287 @@
 {
   "bucket": {
-    "_id": "578140f69bbf925a48000351",
-    "slug": "slide-deck",
-    "title": "Slide Deck",
-    "object_types": [
-      {
-        "title": "Steps",
-        "slug": "steps",
-        "singular": "Step",
-        "metafields": [
-          {
-            "edit": 1,
-            "value": "",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": null
-          },
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1,
-          "add_metafields": 0,
-          "metafields_title": 0,
-          "metafields_key": 0
+     "_id": "5a77a0db611a523946da0e47",
+     "slug": "e9b1f450-0a08-11e8-8ff0-0174b0eeb310",
+     "title": "Coin.Flowers",
+     "object_types": [
+        {
+           "title": "Steps",
+           "slug": "steps",
+           "singular": "Step",
+           "metafields": [
+              {
+                 "edit": 1,
+                 "value": "",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": false
+              }
+           ],
+           "options": {
+              "slug_field": 1,
+              "content_editor": 1,
+              "add_metafields": 0,
+              "metafields_title": 0,
+              "metafields_key": 0
+           },
+           "localization": false,
+           "locales": ""
+        }
+     ],
+     "links": [],
+     "objects": [
+        {
+           "_id": "5a77a0db52f7363345758d97",
+           "old_id": "578141569bbf925a48000357",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-1",
+           "title": "Step 1",
+           "content": "<span style=\"color: rgb(184, 49, 47); font-size: 36px;\"><strong>Welcome to Coin.Flowers!<\/strong><\/span>",
+           "metafields": [
+              {
+                 "value": "slide",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -1000,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -1500,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "bored",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                  "value": "https://coin.flowers/400X400.png",
+                  "key": "image",
+                  "title": "Image",
+                  "type": "file",
+                  "children": null
+               }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.966Z",
+           "created_at": "2018-02-05T00:10:03.966Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 1,
+           "status": "published",
+           "modified_at": "2018-02-08T20:12:35.808Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "localization": false,
-        "locales": ""
-      }
-    ],
-    "objects": [
-      {
-        "_id": "578141569bbf925a48000357",
-        "order": 1,
-        "slug": "step-1",
-        "title": "Step 1",
-        "content": "<q>Aren’t you&nbsp;<b>tired</b>&nbsp;of installing the same old CMS?</q>",
-        "metafields": [
-          {
-            "value": "slide",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -1000,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -1500,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "bored",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:24:22.445Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d98",
+           "old_id": "5781417a9bbf925a4800035a",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-2",
+           "title": "Step 2",
+           "content": "<p><span style=\"color: rgb(0, 0, 0); font-size: 36px;\">So many coins, so many tokens....but there is something new! &nbsp;<\/span><\/p><p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 36px;\">Do you want to own or send through the latest <a href=\"https://www.stellar.org\" rel=\"noopener noreferrer\" target=\"_blank\">Stellar<\/a> blockchain technology a token that combines <strong>tradition with technology?&nbsp;<\/strong><\/span><\/span><\/p><p><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 36px;\">Wouldn&#39;t you like to own a new Stellar token that can make you or the recipient <strong>happier<\/strong>?&nbsp;<\/span><\/span><\/p><p><br><\/p>",
+           "metafields": [
+              {
+                 "value": "slide",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 0,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -1500,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.968Z",
+           "created_at": "2018-02-05T00:10:03.968Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 2,
+           "status": "published",
+           "modified_at": "2018-02-08T20:10:19.297Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T01:43:14.893Z"
-      },
-      {
-        "_id": "5781417a9bbf925a4800035a",
-        "order": 2,
-        "slug": "step-2",
-        "title": "Step 2",
-        "content": "<q>Do you notice that <b>development time</b> seems to run away during CMS installation?</q>",
-        "metafields": [
-          {
-            "value": "slide",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 0,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -1500,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:24:58.228Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d9a",
+           "old_id": "578141bc9bbf925a48000368",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-4",
+           "title": "Step 4",
+           "content": "<p>welcome<\/p><h1><span style=\"color: rgb(0, 0, 0);\">Coin.Flowers<\/span><\/h1><p class=\"footnote\">The new way to send virtual flowers 💐🌷🌹🌻 via <a href=\"https://stellar.org\" rel=\"noopener noreferrer\" target=\"_blank\">Stellar<\/a> :)<\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 4,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "title",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.971Z",
+           "created_at": "2018-02-05T00:10:03.971Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 3,
+           "status": "published",
+           "modified_at": "2018-02-08T22:41:17.961Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T04:09:19.401Z"
-      },
-      {
-        "_id": "5781419f9bbf925a48000364",
-        "order": 3,
-        "slug": "step-3",
-        "title": "Step 3",
-        "content": "<q>Wouldn't you like to <span style=\"font-weight: bold;\">reduce dev time</span> and make your client (and yourself) <b>happier</b>?</q>",
-        "metafields": [
-          {
-            "value": "slide",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 1000,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -1500,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:25:35.645Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d9b",
+           "old_id": "578141c19bbf925a4800036a",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-5",
+           "title": "Step 5",
+           "content": "<p>Coin.Flowers is a new Stellar Asset that is easy to transfer and will be a surprise to every recipient! Visible on all major stellar wallets such as <a href=\"https://portal.stellarport.io/exchange/alphanum12/FLOWERS/GBXJKSQXXR3WDXWZ6NHZSSFKDJ2Y633WAGODAPINDQVXGEZIIJ4L4QYZ/native/XLM/Stellar\" rel=\"noopener noreferrer\" target=\"_blank\">StellarPort<\/a> and <a href=\"https://stellarterm.com/#exchange/FLOWERS-GBXJKSQXXR3WDXWZ6NHZSSFKDJ2Y633WAGODAPINDQVXGEZIIJ4L4QYZ/XLM-native\" rel=\"noopener noreferrer\" target=\"_blank\">Stellarterm<\/a><br>coin.flowers require no watering and will last virtually forever!<\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 850,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 3000,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 90,
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 5,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "its",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.972Z",
+           "created_at": "2018-02-05T00:10:03.972Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 4,
+           "status": "published",
+           "modified_at": "2018-02-08T22:39:23.473Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T04:47:04.483Z"
-      },
-      {
-        "_id": "578141bc9bbf925a48000368",
-        "order": 4,
-        "slug": "step-4",
-        "title": "Step 4",
-        "content": "<span class=\"try\">then you should try</span>\r\n        <h1>Cosmic JS<sup>*</sup></h1>\r\n        <p class=\"footnote\"><sup>*</sup> This slide deck is powered by&nbsp;<a href=\"https://cosmicjs.com\" target=\"_blank\">Cosmic JS</a>&nbsp;:)</p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 4,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "title",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:26:04.718Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d9c",
+           "old_id": "578141d99bbf925a4800036c",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-6",
+           "title": "Step 6",
+           "content": "<p>Flowers,<br>even virtual ones,<br>are a great gift!<\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 3500,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 2100,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 180,
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 6,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "big",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.973Z",
+           "created_at": "2018-02-05T00:10:03.973Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 5,
+           "status": "published",
+           "modified_at": "2018-02-05T16:44:43.440Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T01:49:58.331Z"
-      },
-      {
-        "_id": "578141c19bbf925a4800036a",
-        "order": 5,
-        "slug": "step-5",
-        "title": "Step 5",
-        "content": "<p>Cosmic JS is&nbsp;a cloud-hosted, API-first content platform that will<span style=\"font-weight: bold;\"> </span>save you<span style=\"font-weight: bold;\"> time</span> and <span style=\"font-weight: bold;\">money</span> during development.<br>No installation necessary.</p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 850,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 3000,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 90,
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 5,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "its",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:26:09.797Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d9d",
+           "old_id": "578141ec9bbf925a4800036f",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-7",
+           "title": "Step 7",
+           "content": "<p>limited to 1999 coins<\/p><p><br><\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 2825,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 2325,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 300,
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 1,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -3000,
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "tiny",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.974Z",
+           "created_at": "2018-02-05T00:10:03.974Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 6,
+           "status": "published",
+           "modified_at": "2018-02-08T20:14:05.271Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T12:43:54.441Z"
-      },
-      {
-        "_id": "578141d99bbf925a4800036c",
-        "order": 6,
-        "slug": "step-6",
-        "title": "Step 6",
-        "content": "<p>This is <br><b>huge<br></b>for big&nbsp;<br><span style=\"line-height: 1.42857;\">companies</span></p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 3500,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 2100,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 180,
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "big",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:26:33.079Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d9e",
+           "old_id": "578141fd9bbf925a48000371",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-8",
+           "title": "Step 8",
+           "content": "<p>you can get coin.flowers right now on<a href=\"https://portal.stellarport.io/exchange/alphanum12/FLOWERS/GBXJKSQXXR3WDXWZ6NHZSSFKDJ2Y633WAGODAPINDQVXGEZIIJ4L4QYZ/native/XLM/Stellar\" rel=\"noopener noreferrer\" target=\"_blank\">&nbsp;Stellarport<\/a> or <a href=\"https://stellarterm.com/#exchange/FLOWERS-GBXJKSQXXR3WDXWZ6NHZSSFKDJ2Y633WAGODAPINDQVXGEZIIJ4L4QYZ/XLM-native\">Stellarterm<\/a><\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 3500,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -850,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 270,
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 6,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "ing",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.976Z",
+           "created_at": "2018-02-05T00:10:03.976Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 7,
+           "status": "published",
+           "modified_at": "2018-02-08T15:23:09.610Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-09T22:31:33.991Z"
-      },
-      {
-        "_id": "578141ec9bbf925a4800036f",
-        "order": 7,
-        "slug": "step-7",
-        "title": "Step 7",
-        "content": "<p>and for&nbsp;<b>small</b> shops</p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 2825,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 2325,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 300,
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 1,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -3000,
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "tiny",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:26:52.776Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d9f",
+           "old_id": "5781420a9bbf925a48000372",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-9",
+           "title": "Step 9",
+           "content": "<p>Why not sent <strong><a href=\"https://etherscan.io/token/0xc2f76a1d2e9fb4dbdf36283a7f1208c366d268c2\" rel=\"noopener noreferrer\" target=\"_blank\"><span style=\"font-size: 24px;\">Coin.Flowers&nbsp;<\/span><\/a><\/strong> to surprise your Valentine this year &nbsp;(but remember that real flowers will also be appreciated!)&nbsp;<\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 6700,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -300,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 6,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "imagination",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.977Z",
+           "created_at": "2018-02-05T00:10:03.977Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 8,
+           "status": "published",
+           "modified_at": "2018-02-08T15:23:32.569Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T01:47:05.259Z"
-      },
-      {
-        "_id": "578141fd9bbf925a48000371",
-        "order": 8,
-        "slug": "step-8",
-        "title": "Step 8",
-        "content": "<p>By <span class=\"positioning\">providing your content from an API, your content</span> can be delivered to any desktop, mobile or web application...</p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 3500,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -850,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 270,
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "ing",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:27:09.223Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758da0",
+           "old_id": "578142199bbf925a48000374",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-10",
+           "title": "Step 10",
+           "content": "<p>want to know more?</p><p>stay tuned :-)&nbsp;</p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 6300,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 2000,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 20,
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 4,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "source",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.978Z",
+           "created_at": "2018-02-05T00:10:03.978Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 9,
+           "status": "published",
+           "modified_at": "2018-02-08T19:48:37.855Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-10T14:24:38.434Z"
-      },
-      {
-        "_id": "5781420a9bbf925a48000372",
-        "order": 9,
-        "slug": "step-9",
-        "title": "Step 9",
-        "content": "<p>making your content <span style=\"font-weight: bold;\">ready for the future</span>.</p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6700,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -300,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "imagination",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:27:22.248Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758da1",
+           "old_id": "578142249bbf925a48000376",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-11",
+           "title": "Step 11",
+           "content": "<p>one more thing...<\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": 6000,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": 4000,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": 2,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": false
+              },
+              {
+                 "value": "one-more-thing",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": false
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.980Z",
+           "created_at": "2018-02-05T00:10:03.980Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "slug_field": 1,
+              "content_editor": 1
+           },
+           "order": 10,
+           "status": "published"
         },
-        "status": "published",
-        "modified": "2016-07-10T14:25:46.416Z"
-      },
-      {
-        "_id": "578142199bbf925a48000374",
-        "order": 10,
-        "slug": "step-10",
-        "title": "Step 10",
-        "content": "<p>want to know more?</p>\r\n        <a href=\"https://cosmicjs.com/contact\" target=\"_blank\">Contact us for a demo</a>!",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6300,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 2000,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 20,
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 4,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "source",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "659ddee0-4628-11e6-806a-45872309e054-github-graphic.png",
-            "key": "image",
-            "title": "Image",
-            "type": "file",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:27:37.570Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758da2",
+           "old_id": "578142379bbf925a48000378",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-12",
+           "title": "Step 12",
+           "content": "<p>Even in or after a market bubble Flowers are here to stay (just like in the original &nbsp;<a href=\"https://en.wikipedia.org/wiki/Tulip_mania\" rel=\"noopener noreferrer\" target=\"_blank\">tulip mania<\/a>)<\/p>",
+           "metafields": [
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 6200,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 4300,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -50,
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 10,
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 2,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -100,
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "its-in-3d",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.981Z",
+           "created_at": "2018-02-05T00:10:03.981Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 11,
+           "status": "published",
+           "modified_at": "2018-02-05T16:49:40.677Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-09T22:56:42.311Z"
-      },
-      {
-        "_id": "578142249bbf925a48000376",
-        "order": 11,
-        "slug": "step-11",
-        "title": "Step 11",
-        "content": "<p>one more thing...</p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6000,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 4000,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 2,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "one-more-thing",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:27:48.540Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758da3",
+           "old_id": "578151449bbf925a4800050f",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-13",
+           "title": "Step 13",
+           "content": "<p>Even in or after a market bubble Flowers are here to stay (just like in the original &nbsp;<a href=\"https://en.wikipedia.org/wiki/Tulip_mania\" rel=\"noopener noreferrer\" target=\"_blank\">tulip mania<\/a>)<\/p>",
+           "metafields": [
+              {
+                 "value": "overview",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 3000,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 1500,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 10,
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.982Z",
+           "created_at": "2018-02-05T00:10:03.982Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 12,
+           "status": "published",
+           "modified_at": "2018-02-05T16:49:50.029Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
         },
-        "status": "published",
-        "modified": "2016-07-09T19:26:33.493Z"
-      },
-      {
-        "_id": "578142379bbf925a48000378",
-        "order": 12,
-        "slug": "step-12",
-        "title": "Step 12",
-        "content": "<p>The full source for this slide deck is&nbsp;<a href=\"https://github.com/cosmicjs/cosmicapp-slide-deck\" target=\"_blank\">available on GitHub</a>.<br></p>",
-        "metafields": [
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 6200,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 4300,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -50,
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 10,
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 2,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": -100,
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "its-in-3d",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T18:28:07.849Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a0db52f7363345758d99",
+           "old_id": "5781419f9bbf925a48000364",
+           "bucket": "5a77a0db611a523946da0e47",
+           "slug": "step-3",
+           "title": "Step 3",
+           "content": "<p>Remember that coin.flowers are entirely virtual and for novelty purposes only.<\/p><p>You can find more information about Stellar <a href=\"https://stellar.org\" rel=\"noopener noreferrer\" target=\"_blank\">here<\/a> and you can get coin.flowers<a href=\"https://stellarterm.com/#exchange/FLOWERS-GBXJKSQXXR3WDXWZ6NHZSSFKDJ2Y633WAGODAPINDQVXGEZIIJ4L4QYZ/XLM-native\" rel=\"noopener noreferrer\" target=\"_blank\">here<\/a><\/p>",
+           "metafields": [
+              {
+                 "value": "slide",
+                 "key": "class",
+                 "title": "Class",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": 1000,
+                 "key": "datax",
+                 "title": "data-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": -1500,
+                 "key": "datay",
+                 "title": "data-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotate",
+                 "title": "data-rotate",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatex",
+                 "title": "data-rotate-x",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datarotatey",
+                 "title": "data-rotate-y",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "datascale",
+                 "title": "data-scale",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "dataz",
+                 "title": "data-z",
+                 "type": "text",
+                 "children": null
+              },
+              {
+                 "value": "",
+                 "key": "id",
+                 "title": "Id",
+                 "type": "text",
+                 "children": null
+              }
+           ],
+           "type_slug": "steps",
+           "created": "2018-02-05T00:10:03.969Z",
+           "created_at": "2018-02-05T00:10:03.969Z",
+           "user_id": "5a777b6a52f7363345758d4a",
+           "options": {
+              "content_editor": 1,
+              "slug_field": 1
+           },
+           "order": 13,
+           "status": "published",
+           "modified_at": "2018-02-08T19:55:39.876Z",
+           "modified_by": "5a777b6a52f7363345758d4a",
+           "publish_at": null
+        }
+     ],
+     "media": [
+        {
+           "_id": "5a77a0dc52f7363345758da4",
+           "name": "659ddee0-4628-11e6-806a-45872309e054-github-graphic.png",
+           "original_name": "github-graphic.png",
+           "size": 12258,
+           "type": "image/png",
+           "bucket": "5a77a0db611a523946da0e47",
+           "created": "2016-07-09T22:56:39.903Z",
+           "folder": null,
+           "location": "https://s3-us-west-2.amazonaws.com/cosmicjs"
         },
-        "status": "published",
-        "modified": "2016-07-10T02:19:13.573Z"
-      },
-      {
-        "_id": "578151449bbf925a4800050f",
-        "order": 13,
-        "slug": "step-13",
-        "title": "Step 13",
-        "content": "",
-        "metafields": [
-          {
-            "value": "overview",
-            "key": "id",
-            "title": "Id",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "class",
-            "title": "Class",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 3000,
-            "key": "datax",
-            "title": "data-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 1500,
-            "key": "datay",
-            "title": "data-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotate",
-            "title": "data-rotate",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatex",
-            "title": "data-rotate-x",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "datarotatey",
-            "title": "data-rotate-y",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": 10,
-            "key": "datascale",
-            "title": "data-scale",
-            "type": "text",
-            "children": false
-          },
-          {
-            "value": "",
-            "key": "dataz",
-            "title": "data-z",
-            "type": "text",
-            "children": false
-          }
-        ],
-        "bucket": "578140f69bbf925a48000351",
-        "type_slug": "steps",
-        "created": "2016-07-09T19:32:20.206Z",
-        "user_id": "55767c3ffbcf5cbb13000001",
-        "options": {
-          "slug_field": 1,
-          "content_editor": 1
+        {
+           "_id": "5a77a3a3563c23442c7fff81",
+           "name": "92375290-0a0a-11e8-969f-1511e80d8cad-flowerorig.png",
+           "original_name": "flowerorig.png",
+           "size": 16429,
+           "type": "image/png",
+           "bucket": "5a77a0db611a523946da0e47",
+           "created": "2018-02-05T00:21:55.459Z",
+           "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+           "folder": null
         },
-        "status": "published",
-        "modified": "2016-07-10T02:01:31.686Z"
-      }
-    ],
-    "media": [
-      {
-        "_id": "578181279bbf925a4800099a",
-        "name": "659ddee0-4628-11e6-806a-45872309e054-github-graphic.png",
-        "original_name": "github-graphic.png",
-        "size": 12258,
-        "type": "image/png",
-        "bucket": "578140f69bbf925a48000351",
-        "created": "2016-07-09T22:56:39.903Z",
-        "folder": null,
-        "location": "https://cosmicjs.com/uploads"
-      }
-    ]
+        {
+           "_id": "5a7ca68996d0406fdccd9f26",
+           "name": "3d2e8070-0d07-11e8-a7df-5dc891eb4c78-1f490.png",
+           "original_name": "1f490.png",
+           "size": 1789,
+           "type": "image/png",
+           "bucket": "5a77a0db611a523946da0e47",
+           "created": "2018-02-08T19:35:37.797Z",
+           "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+           "folder": null
+        },
+        {
+           "_id": "5a7ca8ad96d0406fdccd9f3a",
+           "name": "8381ee30-0d08-11e8-a7df-5dc891eb4c78-flowershighres.png",
+           "original_name": "flowershighres.png",
+           "size": 368680,
+           "type": "image/png",
+           "bucket": "5a77a0db611a523946da0e47",
+           "created": "2018-02-08T19:44:45.417Z",
+           "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+           "folder": null
+        },
+        {
+           "_id": "5a7ca99296d0406fdccd9f3d",
+           "name": "0c6d3330-0d09-11e8-a7df-5dc891eb4c78-400X400.png",
+           "original_name": "400X400.png",
+           "size": 26276,
+           "type": "image/png",
+           "bucket": "5a77a0db611a523946da0e47",
+           "created": "2018-02-08T19:48:34.985Z",
+           "location": "https://s3-us-west-2.amazonaws.com/cosmicjs",
+           "folder": null
+        }
+     ],
+     "media_folders": [],
+     "extensions": [
+        {
+           "id": "1f09e8a0-0a73-11e8-99a2-a925d9891f9f",
+           "cosmic_extension_id": "592b446e44dfd51023002e9f",
+           "title": "Contact Form",
+           "image_url": "https://cosmicjs.imgix.net/0acda0e0-49a1-11e7-b871-81d01d81a555-user.jpg?w=800",
+           "source_code_url": "https://github.com/cosmicjs/contact-form",
+           "url": "https://1f09e8a0-0a73-11e8-99a2-a925d9891f9f.cosmicext.com",
+           "zip_url": "https://cosmicjs.com/extensions/1f09e8a0-0a73-11e8-99a2-a925d9891f9f/src/extension.zip",
+           "installed_at": "2018-02-05T12:50:19.732Z",
+           "installed_by": "5a777b6a52f7363345758d4a",
+           "font_awesome_class": "fa-envelope-o"
+        }
+     ],
+     "thumbnail": "92375290-0a0a-11e8-969f-1511e80d8cad-flowerorig.png"
   }
 }
